@@ -284,6 +284,10 @@ span i:last-child {
     .banner-image img {
         height: 100%;
         width: 100%;
+        margin-bottom: 30px;
+    }
+    .banner-description{
+        padding: 0 20px;
     }
 
     .collection-grid {
